@@ -1,2 +1,2 @@
 ## Notes
-# comifyShop
+# ComifySloth
